@@ -1,5 +1,9 @@
 # LidBright
 
+<p align="center">
+  <img src="Sources/LidBrightApp/Resources/AppIcon.png" alt="LidBright logo" width="128">
+</p>
+
 LidBright 是一个 macOS SwiftUI 应用，用于按 MacBook 开盖和合盖状态控制屏幕保持亮屏的策略。应用同时提供主窗口入口和菜单栏入口，设置会持久化到 `UserDefaults`。
 
 ## 业务规则
